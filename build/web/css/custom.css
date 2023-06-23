@@ -1,0 +1,21 @@
+
+.card{
+    border-radius: 10%;
+    box-shadow: 2px 4px 8px #00000028;
+}
+
+.card:hover{
+box-shadow:2px 4px 8px #0059ff28;
+transform: scale(1.05);
+}
+
+.iconbtn{
+    width: 25%;
+    margin-bottom: 10px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+.iconbtn:hover{
+transform: scale(1.2);
+}
